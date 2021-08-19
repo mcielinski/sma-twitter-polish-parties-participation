@@ -9,7 +9,8 @@ Assignment for the Social Media Analysis course at WUST (Wroclaw University of S
 [platforma_org, Nowoczesna, Zieloni, inicjatywaPL], 
 [KONFEDERACJA_, RuchNarodowy, Partia_KORWiN], 
 [nowePSL, KUKIZ15],
-[__Le
+[__Lewica, partiarazem]
+```
 2. Analysis & Visualization: Analysing aquired tweets
 * number of tweets in time
 * popularity of tweets in time
