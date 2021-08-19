@@ -2,7 +2,7 @@
 
 Assignment for the Social Media Analysis course at WUST (Wroclaw University of Science and Technology).
 
-### Project goal
+### Project steps
 1. Data: Scrapping polish parties tweets using twint library. The following parties were considered (grouped by their coalition):
 ```python
 [pisorgpl, Porozumienie__, SolidarnaPL], 
